@@ -1,6 +1,6 @@
 # Our Minecraft plugin
 
-A simple paper plugin for minecraft.
+A simple spigot plugin for minecraft.
 
 [![Type](https://img.shields.io/badge/project%20type-theme-blue?style=for-the-badge&labelColor=333333)](#)
 [![State](https://img.shields.io/badge/state-in%20development-228C22?style=for-the-badge&labelColor=333333)](#)
