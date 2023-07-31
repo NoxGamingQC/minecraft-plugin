@@ -1,0 +1,11 @@
+# NoxGamingQC's minecraft plugin
+## This is the config file for the whole plugin.
+
+prefix: '&6Server| '
+
+## Join and leave message
+### You can use <player> to get the player name
+
+first_join_message: '&e<player> &7has join the server for the first time!'
+join_message: '&a<player> &7connected'
+leave_message: '&c<player> &7disconnected'

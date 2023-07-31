@@ -8,7 +8,7 @@ import org.bukkit.entity.Player;
 import ca.noxgamingqc.minecraft_plugin.Main;
 
 public class HelloCommand implements CommandExecutor {
-
+	@SuppressWarnings("unused")
 	private Main plugin;
 	
 	public HelloCommand(Main plugin) {
