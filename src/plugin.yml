@@ -1,0 +1,10 @@
+name: "NoxGamingQC"
+version: 1.0
+author: NoxGamingQC
+main: ca.noxgamingqc.minecraft_plugin.Main
+description: "A simple plugin that allow you to sync economy with a website."
+
+commands:
+  hello:
+    aliases: [hi]
+    description: This is an hello command
